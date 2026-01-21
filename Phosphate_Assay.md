@@ -1,7 +1,6 @@
 # Phosphate Assay 
 
 ### Materials 
-#### (For 1 full standard curve + up to 10 samples, using 5 mL per reaction tube)
 * 15 mL centrifuge tubes (10 for standard curve + # of samples) 
 * Pipettes and tips
    * P200 (2x Std curve + # Samples)
@@ -33,8 +32,7 @@
 * Ascorbic Acid 
    * Store in fridge at 4C
 
-
-### Preparation 
+### Reagent Preparation 
 1. 9N Sulfuric Acid Reagent (1L)
    1. Place 1L amber glass bottle on ice
    2. Add 250 mL of sulfuric Acid to 750 mL of MQ water. 
@@ -55,80 +53,50 @@
    3. Add 5ml of potassium antimony tartrate solution 
    4. Add 70ml MQ water
    5. Store room temp, solution is shelf stable for months
-2. Making standards
+2. Potassium Phosphate (K3PO4) Primary Stock **CORRECT MATH
+   1. Weigh ~ 1 g of K3PO4 into 50 mL Centrifuge tube
+   2. Add 50 mL water, vortex
+   3. Calculate exact concentration
+      1. ________g / [(212.27g/mol)x50mL] * 1x10^9 = μM
+      2. E.g. If 1 g, = 94220 μM
 
+### Materials Preparation
+1. Remove samples from -80 freezer, place on ice to thaw
+2. Make Working phosphate stock (1000 μM)
+   1. Make 50 mL of 1000 μM working stock from primary stock, C1V1 = C2V2
+   3. Primary Stock Conc _________ μM x ____  mL = 1000 μM x 50 mL
+      1. E.g. X = (1000*50/94220) = 0.531 mL = 53.1 μL
+   4. Add 53.1 μL of primarily stock to 49.469 mL MQ water
+   5. Store in the fridge
+3. Label 9x 50 mL centrifuge tubes as follows:
+   1. 1000 nM
+   2. 500 nM
+   3. 250 nM
+   4. 125 nM
+   5. 62.5 nM
+   6.  31.25 nM
+   7. 15.625 nM
+   8. 7.8125 nM
+   9. 0 nM
+4. Rinse all centrifuge tubes 3x each with MQ water before use
+5. Add 25 mL MQ water to each tube except the 1000 nM tube. Add 50mL water to the 1000 nM tube
+6. Add 50 μL of the 1000 μM Working stock into the labeled 1000 nM centrifuge tube containing 50mL of water. Vortex.
+7. Take 25 mL from the 1000 nM tube and add to the “500 nM” tube. Mix well.
+8. Continue, using serial dilutions by adding 25 mL of each previous tube to the 25 mL of water in the next.
 
 ### Primary Procedure 
 1. Transfer 5 mL of sample or standard into a 15 mL reaction tube
 2. Add 150 μL of MIXED REAGENT and homogenize
 3. Add 150 μL of Ascorbic Acid and homogenize
 4. Let the samples react for 30 min in the dark
-5. Transfer 1 mL of sample into a glass/disposable cuvette and measure absorbance at
-880 nm in the spectrophotometer
+   1. Can be achieved with aluminum foil 
+5. Transfer 1 mL of sample into a glass/disposable cuvette and measure absorbance at 880 nm in the spectrophotometer
    1. The color for the samples is stable for up to 1 hour
-   2. Standards for this method are measured immediately before and after samples to
-correct for drift
-
+   2. Standards for this method are measured immediately before and after samples to correct for drift
 
 ### Waste Protocols 
-Waste Protocols
-• All chemical waste can be disposed of in the same container; none are sink
+1. All chemical waste can be disposed of in the same container; none are sink
 disposable
 
-
-
-
-Mixed Reagent (Chemicals made above) (240 mL)
-• Preparation
-o While stirring, add 45 mL of Ammonium Heptamolybdate Solution to 120 mL
-of 9 N sulfuric acid
-o Add 5 mL of potassium antimony tartrate solution
-o Add 70 mL of DI water
-• Storage
-o Store the solution at 4 °C in an amber glass or polyethylene bottle
-o The solution is stable as long as it remains colorless
-o Shelf stable for several months
-• Safety
-
-
-Potassium Phosphate (K3PO4)
-• Primary stock (if needed):
-o Weigh ~ 1 g (FW: 212.27 g/mol) of K3PO4 into 50 mL Centrifuge tube
-o Add up to 50 mL water, mix well.
-o Calculate exact concentration
-▪ ___g / [(212.27g/mol)x50mL] * 1,000,000 = mM
-▪ E.g. If 1 g, = 94.220 mM = 94220 μM
-
-• Working stock (1000 μM)
-o Make 50 mL of 1000 μM working stock from primary stock
-o C1V1 = C2V2
-o 94220 μM x ____mL = 1000 μM x 50 mL
-o E.g. X = (1000*50/94220) = 0.531 mL = 53.1 μL
-o So add 53.1 μL of primarily stock to 49.469 mL DI water
-• Storage
-o Stored refrigerated
-Preparation
-1. Timing, making solvents
-2. Label 9x 50 mL centrifuge tubes as follows:
-1. 1000 nM
-2. 500 nM
-3. 250 nM
-4. 125 nM
-5. 62.5 nM
-6. 31.25 nM
-7. 15.625 nM
-8. 7.8125 nM
-9. 0 nM
-3. Rinse all centrifuge tubes 3x each with DI water before use
-4. Add 25 mL DI water to each tube except the 1000 nM tube. Add 50mL water to the
-1000 nM tube
-
-5. Add 50 μL of the 1000 μM K3PO4 standard into the labeled 1000 nM centrifuge tube
-containing 50mL of water. Mix well.
-6. Take 25 mL from the 1000 nM tube and add to the “500 nM” tube. Mix well.
-7. Continue, using serial dilutions by adding 25 mL of each previous tube to the 25 mL
-of water in the next.
-8. When there is 50 mL in the “7.8125 nM” tube, discard 25 mL. Now all tubes should
-contain 25 mL.
 
 
