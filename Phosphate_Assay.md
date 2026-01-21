@@ -1,1 +1,134 @@
+# Phosphate Assay 
+
+### Materials 
+#### (For 1 full standard curve + up to 10 samples, using 5 mL per reaction tube)
+* 15 mL centrifuge tubes (10 for standard curve + # of samples) 
+* Pipettes and tips
+   * P200 (2x Std curve + # Samples)
+   * P1000 (helpful for transfers)
+* Cuvettes
+   * Disposable plastic cuvettes (one per sample/standard) or
+   * Reusable glass cuvette (rinsed thoroughly between reads)
+* Tube racks (15 mL)
+* Kimwipes
+* DI Water Squirt Bottle
+* Timer (for 30-minute incubation)
+* Aluminum foil
+* Ice bucket + ice
+* Chemical waste container (Labeled: Phosphate Assay Waste)
+* Instrument: Spectrophotometer capable of reading 880 nm
+* 1x 1L amber glass schott bottle 
+* 1x 100ml plastic bottle 
+* 1x 100ml glass schott bottle 
+* 1x 100ml amber glass schott bottle 
+* 1x 250ml amber glass schott bottle
+
+### Chemicals 
+* 10N Sulfuric Acid (1000 mL)
+   * Highly corrosive, store in acid cabinet
+* Ammonium molybdate tetrahydrate
+   * In chemicals shelf 
+* Potassium Antimony Tartrate Hydrate
+   * In hazardous chemicals shelf
+* Ascorbic Acid 
+   * Store in fridge at 4C
+
+
+### Preparation 
+1. 9N Sulfuric Acid Reagent (1L)
+   1. Place 1L amber glass bottle on ice
+   2. Add 250 mL of sulfuric Acid to 750 mL of MQ water. 
+   3. Once cooled, it can be stored in the acid cabinet
+2. Ammonium molybdate Reagent (100ml)) ******NEED TO FIX MATH FROM HEPTAMOLYBDATE
+   1. Dissolve 9.5 g of ammonium heptamolybdate in 100 mL of MQ in a plastic bottle
+   2. Solution is good as long as it remains clear
+   3. Store in chemical shelf
+3. Potassium Antimony Tartrate Hydrate Solution (100ml)**MAKE SURE MATH IS RIGHT FOR HYDRATE
+   1. Dissolve 3.25 g of potassium antimony tartrate in 100 mL of MQ water in glass schott bottle
+   2. Store in hazardous chemical shelf 
+4. Ascorbic Acid solution (100ml)
+   1. Dissolve 7 g of ascorbic acid in 100 mL of MQ water in an amber bottle
+   2. Store in fridge at 4C, solution is stable when it remains colorless
+5. Mixed Reagent 
+   1. Add 120ml of 9N sulfuric acid to amber bottle, and stir
+   2. Add 45ml of the ammonium heptamolybdate solution
+   3. Add 5ml of potassium antimony tartrate solution 
+   4. Add 70ml MQ water
+   5. Store room temp, solution is shelf stable for months
+2. Making standards
+
+
+### Primary Procedure 
+1. Transfer 5 mL of sample or standard into a 15 mL reaction tube
+2. Add 150 μL of MIXED REAGENT and homogenize
+3. Add 150 μL of Ascorbic Acid and homogenize
+4. Let the samples react for 30 min in the dark
+5. Transfer 1 mL of sample into a glass/disposable cuvette and measure absorbance at
+880 nm in the spectrophotometer
+   1. The color for the samples is stable for up to 1 hour
+   2. Standards for this method are measured immediately before and after samples to
+correct for drift
+
+
+### Waste Protocols 
+Waste Protocols
+• All chemical waste can be disposed of in the same container; none are sink
+disposable
+
+
+
+
+Mixed Reagent (Chemicals made above) (240 mL)
+• Preparation
+o While stirring, add 45 mL of Ammonium Heptamolybdate Solution to 120 mL
+of 9 N sulfuric acid
+o Add 5 mL of potassium antimony tartrate solution
+o Add 70 mL of DI water
+• Storage
+o Store the solution at 4 °C in an amber glass or polyethylene bottle
+o The solution is stable as long as it remains colorless
+o Shelf stable for several months
+• Safety
+
+
+Potassium Phosphate (K3PO4)
+• Primary stock (if needed):
+o Weigh ~ 1 g (FW: 212.27 g/mol) of K3PO4 into 50 mL Centrifuge tube
+o Add up to 50 mL water, mix well.
+o Calculate exact concentration
+▪ ___g / [(212.27g/mol)x50mL] * 1,000,000 = mM
+▪ E.g. If 1 g, = 94.220 mM = 94220 μM
+
+• Working stock (1000 μM)
+o Make 50 mL of 1000 μM working stock from primary stock
+o C1V1 = C2V2
+o 94220 μM x ____mL = 1000 μM x 50 mL
+o E.g. X = (1000*50/94220) = 0.531 mL = 53.1 μL
+o So add 53.1 μL of primarily stock to 49.469 mL DI water
+• Storage
+o Stored refrigerated
+Preparation
+1. Timing, making solvents
+2. Label 9x 50 mL centrifuge tubes as follows:
+1. 1000 nM
+2. 500 nM
+3. 250 nM
+4. 125 nM
+5. 62.5 nM
+6. 31.25 nM
+7. 15.625 nM
+8. 7.8125 nM
+9. 0 nM
+3. Rinse all centrifuge tubes 3x each with DI water before use
+4. Add 25 mL DI water to each tube except the 1000 nM tube. Add 50mL water to the
+1000 nM tube
+
+5. Add 50 μL of the 1000 μM K3PO4 standard into the labeled 1000 nM centrifuge tube
+containing 50mL of water. Mix well.
+6. Take 25 mL from the 1000 nM tube and add to the “500 nM” tube. Mix well.
+7. Continue, using serial dilutions by adding 25 mL of each previous tube to the 25 mL
+of water in the next.
+8. When there is 50 mL in the “7.8125 nM” tube, discard 25 mL. Now all tubes should
+contain 25 mL.
+
 
