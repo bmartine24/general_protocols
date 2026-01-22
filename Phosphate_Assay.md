@@ -1,5 +1,5 @@
 # Phosphate Assay 
-
+Murphy and Riley (1962) A Modified Single Solution Method for the Determination of Phosphate in Natural Waters. Analytica Chimica Acta 27(1962)31-36. 
 ### Materials 
 * 15 mL centrifuge tubes (10 for standard curve + # of samples) 
 * Pipettes and tips
