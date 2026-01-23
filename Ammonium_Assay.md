@@ -1,37 +1,73 @@
 # Ammonium Assay 
-Holmes et al 
+Holmes et al (1999) A simple and precise method for measuring ammonium in marine and freshwater ecosystems. Can J. Fish. Aquat. Sci. 56: 1801-1808
+
+Taylor et al (2007) Improving the fluorometric ammonium method: matrix effects, background fluoresence, and standard additions. J. N. Benthol. Soc. 26(2):167-177
+
 ### Materials 
-* put how many
-* 8 Falcon Tubes
+* 2x 50ml Falcon Tubes
 * Turner AU-10 flurometer
 * Pipettes & Tips - 10mL
 * Culture Tubes
 * Kim Wipes
+* Stir bar
+* 1x 1L glass schott bottle
+* 1x 125ml glass schott bottle
+* 1x 1L+ dark nalgene bottle
+* Fluorometer
+   * Third floor, shared lab space
+   * Get ammonium module from Fuhrman Lab 
 
 ### Chemicals 
-* Storage type and time + safety information
-* 160g of Sodium Tetraborate
-* 2g of Sodium Sulfite
-* 8g of OPA (Phthaldialdehyde)
-* 200 ml of Ethanol (200% Proof)
-* 53.49mg of Ammonium Chloride
+* Anhydrous Sodium Tetraborate
+   * MW 201.22g/mol
+   * Store in hazardous chemical shelf
+* Anhydrous Sodium Sulfite
+   * MW 126.04g/mol
+   * Store in chemical shelf 
+* OPA (Phthaldialdehyde)
+   * MW 134.13g/mol
+   * Store in fridge in secondary containment 
+* Ammonium Chloride
+   * MW 53.49g/mol
+   * Store in chemical shelf 
+* Ethanol (200% Proof)
+   * Store in flammables cabinet
+* Ammonium Standard for IC
+   * 1000mg/l / 55mM 
+   * Store in chemical shelf 
+
 
 ### Reagent Preparation
-1. Borate Buffer
-   1. 80g of Sodium Tetraborate, 2L of MilliQ Water
-2. Sodium Sulfite
-   1. 2g of sodium sulfite in 125 mL of MilliQ Water,
-3. OPA
-   1. 8g of OPA to 200 mL of ethanol, keep in dark
+1. Borate Buffer 
+   1. In a schott bottle, add 40g of Sodium Tetraborate and 1L of MilliQ Water
+   2. If not dissolving, mix on stir plate
+2. Sodium Sulfite Solution
+   1. In a schott bottle, combine 1g of sodium sulfite and 125 mL of MilliQ Water
+   2. Shake to mix
+   3. Stable for ~1 month, then discard
+3. OPA Solution 
+   1. Cover a 50ml falcon tube with aluminum foil
+   2. Add 2g OPA to 50ml of ethanol, vortex
+   3. Keep in dark until making working reagent
 4. Working Reagent
-   1. mix 2L of borate buffer with 10 mL of the sodium sulfite and 100 mL of OPA solution
-   2. let it age for one day before using
-5. Working Stock for Ammonium Chloride
-   1. 53.49mg of ammonium chloride to 1L of MilliQ to make 1mM solution. then take 50mL of the solution and dilute with 950 mL of MilliQ water to make 50 micro molar stock
-   solution
+   1. In a dark polyethylene/nalgene bottle, add all (1L) borate buffer solution
+   2. Add 5mL of the sodium sulfite solution
+   3. Add 50mL of OPA solution, invert to mix 
+   4. Let it age for three days before use
+   5. Store in the dark, date, and discard after 3 months
+5. Primary Working Stock for Ammonium Chloride (IF OUT OF AMMONIUM STANDARD FOR IC)
+   1. Take care to avoid contamination as much as possible 
+   2. Use a clean 250ml plastic bottle
+   3. Combine 250ml MQ water with 13.37mg of ammonium chloride 
+   4. Determine the actual final concentration 
 
 ### Material Preparation 
-1. Standard Preparation
+1.Secondary Working Stock for Ammonium (55uM) (USING STANDARD)
+   1. Rinse 50ml falcon tube 3x with MQ water
+   2. Fill with 50ml MQ water
+   3. Add 50ul of Ammonium standard for IC (55mM) to tube
+   4. Vortex
+2. Standard Preparation
    1. Prepare 50 micro molar stock solution of ammonium. Add 53.49 mg of ammonium chloride to 1 L of MilliQ water to make a 1mM solution. Take 50 mL of this solution and dilute with 950 mL of MilliQ to make a 50 micro molar stock solution
    2. Fill 5 clean 50 mL Falcon tubes with 40 mL of MilliQ water 
    3. Designate one tube as BLANK. To others add 0, 12.5, 25, 50, 100, 125, 250, 500, 1000 micro L of the stock solution 
