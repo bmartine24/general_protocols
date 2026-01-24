@@ -5,14 +5,18 @@ Taylor et al (2007) Improving the fluorometric ammonium method: matrix effects, 
 
 ### Materials 
 * 10x 50ml Falcon Tubes
+* 15ml Falcon tubes (# of samples) 
 * Turner AU-10 flurometer
-* Pipettes & Tips - 10mL
+* Serological pipette
+* Serological pipette tips
+   * 5ml and 25ml
 * Culture Tubes
 * Kim Wipes
 * Stir bar
 * 1x 1L glass schott bottle
 * 1x 125ml glass schott bottle
 * 1x 1L+ dark nalgene bottle
+* 1x square plastic cuvette
 * Fluorometer
    * Third floor, shared lab space
    * Get ammonium module from Fuhrman Lab 
@@ -55,14 +59,21 @@ Taylor et al (2007) Improving the fluorometric ammonium method: matrix effects, 
    4. Let it age for three days before use
    5. Store in the dark, date, and discard after 3 months
 5. Primary Working Stock for Ammonium Chloride (10mM) (IF OUT OF AMMONIUM STANDARD FOR IC)
-   1. Take care to avoid contamination as much as possible 
+   1. Take care to avoid contamination as much as possible
+      1. Wash pipette tips 2x with MQ water 
    2. Rinse 50ml falcon tube 3x with MQ water
    3. Combine 50ml MQ water with 26.75mg of ammonium chloride (0.010mol/L*53.49g/mol*0.050L)
    4. Determine the actual final concentration
       1. Ammonium chloride added __________mg / (53.49g/mol * 50ml) *1000 = Final concentration_______ mM
-   5. Filter to sterilize and store in fridge 
+   5. Filter to sterilize and store in fridge
+6. Make Process Blank
+   1. Rinse a 50ml falcon tube 3x with MQ water
+   2. Fill it with MQ water to the freeze line
+   3. Place in -80 freezer
+   4. Treat as a sample for processing and use it to determine background fluorescence 
 
 ### Material Preparation 
+Wash Pipette tips with MQ water
 1. Secondary Working Stock for Ammonium (55uM) (USING STANDARD)
    1. Rinse 50ml falcon tube 3x with MQ water
    2. Fill with 50ml MQ water
@@ -73,11 +84,15 @@ Taylor et al (2007) Improving the fluorometric ammonium method: matrix effects, 
       1. Primary stock conc. __________ mM (X volume_______ml) = 0.055mM(50ml)
       2. Ex. If primary stock is 10mM, X = 0.275ml or 275ul
    2. Combine primary stock volume with up to 50ml of MQ water (Ex. 275ul primary stock + 9.725ml MQ)
+4. Precondition tubes and pipette tips
+   1. Wash 8x 50ml falcon tubes, 15ml falcon tubes (enough for all samples), the cuvette, and any potential pipette tips with Working Reagent
+   2. Leave overnight
+   3. Rinse with MQ water and leave to dry
+   4. All times after first conditioning, WR rinse isn't required 
 3. Standard Preparation
-   1. Wash 8x 50ml falcon tubes 3x with MQ water ****
-   2. Label tubes from 1-8
-   3. Fill all tubes with 40ml MQ water
-   4. Following the table below, add the designated colume of 55uM secondary standard to each tube. 
+   1. Label 8x 50ml tubes from 1-8
+   2. Fill all tubes with 40ml MQ water
+   3. Following the table below, add the designated colume of 55uM secondary standard to each tube. Wash 8x 50ml falcon tubes 3x with MQ water ****
 
 | Tube Number | Volume of Secondary Standard (µL)   | Volume of the seawater dilution matrix (mL) |  Final [NH4+] (µM) |
 | ----------- | ----------------------------------- | ------------------------------------------- | ------------------ |
@@ -90,12 +105,27 @@ Taylor et al (2007) Improving the fluorometric ammonium method: matrix effects, 
 |7            | 500                                 | 40                                          | 0.679              |
 |8            | 1000                                | 40                                          | 1.341              |
 
-### Primary Procedure 
-1. 40 mL of sample is collected. In the lab add 10 mL of Working Reagent to all samples
-2. Samples are left in the dark for 2-3 hours to react
-3. After, samples/standards are poured from vials into culture tubes and fluorescence is measured on the Turner AU-10 flurometer
-4. Use the standard curve to determine the concentrations of ammonium in seawater 
 
+### Primary Procedure 
+1. Defrost samples
+2. Label 15ml tubes
+3. Add 10ml of each sample into a designated 15ml tube
+4. Rinse a 5ml serological pipette tip with MQ water
+5. Add 2.5ml of Working Reagent to each sample tube
+6. Rinse a 25ml serological pipette tip with MQ water
+7. Add 10ml of Working Reagent to each Standard 50ml tube
+8. Leave samples to incubate in the dark for 2-3 hours
+9. 20 minutes before sample reading, turn on the fluorometer and insert the CDOM/NH4 cartridge
+   1. Acquire from the Fuhrman Lab - contact AJ
+   2. Select UV as the filter type
+10. Measure standard curve before and after measuring samples
+   1. Using one preconditioned cuvette, rinse 3x with standard
+   2. Pour in standard or pipette in with preconditioned tips
+   3. Then place in standard, wipe with kimtech wipe, and measure
+11. When measuring samples, rinse 2x with MQ water and then 1x with sample
+   1. If there is enough available, do all rinses with sample 
+12. Use the standard curve to determine the concentrations of ammonium in seawater 
 
 ### Waste Protocols 
+1. Make a waste container to dispose of all liquids 
 
