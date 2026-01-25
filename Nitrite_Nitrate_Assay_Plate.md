@@ -2,27 +2,41 @@
 Jones, M.N (1984) Nitrate Reduction by Shaking with Cadmium. Water Res.18(5): 643-646
 
 ### Materials 
-* put how many
 * Shaker
-* Pipettes and Tips - 1mL and 200µL
-* microcentrifuge tubes
+* Pipettes and Tips - 1000u and 200µL
+* Microcentrifuge tubes
 * Tube racks
-* 15 mL conical tubes (if necessary)
+* 15mL conical tubes (if necessary)
 * Vortexer
 * 96-well microplate with lid, clear
+* Plate Reader
 
 ### Chemicals 
-* Sodium nitrite
-* Sodium nitrate
 * Vanadium (III) chloride
    * CAS 7718-98-1
    * MW 157.3g/mol
    * hazardous
-* Sulfanilamide
-* N-(1-Naphthyl)ethylenediamine dihydrochloride
-     
-
-
+* * Hydrochloric acid
+   * CAS 7647-01-0
+   * MW 36.46g/mol
+   * Store in acid cabinet
+* Sulfilanilamide
+   * CAS 63-74-1
+   * MW 172.2g/mol
+   * Store -------------
+* N-(1-Naphthyl)ethylenediamine Dihydrochloride (NED)
+   * CAS 1465-25-4
+   * MW 259.17g/mol
+   * Store --------------
+* Sodium Nitrite
+   * CAS 7632-00-0
+   * MW 69g/mol
+   * Store chemical shelf
+* Sodium Nitrate
+   * CAS 7631-99-4
+   * MW 84.99
+   * Store chemical shelf 
+  
 ### Preparation 
 1. Timing, making solvents 
 2. Making standards
@@ -54,6 +68,7 @@ Jones, M.N (1984) Nitrate Reduction by Shaking with Cadmium. Water Res.18(5): 64
 
 
 ### Waste Protocols 
+
 
 
 
