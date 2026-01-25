@@ -1,4 +1,4 @@
-# Ammonium Assay Platereader
+# Ammonium Assay Plate Reader
 Holmes et al (1999) A simple and precise method for measuring ammonium in marine and freshwater ecosystems. Can J. Fish. Aquat. Sci. 56: 1801-1808
 
 Ref from Zoey: https://www.protocols.io/view/measuring-ammonium-nh4-concentrations-in-water-sam-5qpvobb3zl4o/v1?step=6
