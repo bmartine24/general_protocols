@@ -4,9 +4,12 @@ Jones, M.N (1984) Nitrate Reduction by Shaking with Cadmium. Water Res.18(5): 64
 ### Materials 
 * put how many
 * Shaker
-* Spectrometer (@540 nm)
 * Pipettes and Tips - 1mL and 200µL
-* Cuvettes  
+* microcentrifuge tubes
+* Tube racks
+* 15 mL conical tubes (if necessary)
+* Vortexer
+* 96-well microplate with lid, clear
 
 ### Chemicals 
 * Storage type and time + safety information
@@ -22,4 +25,5 @@ Jones, M.N (1984) Nitrate Reduction by Shaking with Cadmium. Water Res.18(5): 64
 
 
 ### Waste Protocols 
+
 
