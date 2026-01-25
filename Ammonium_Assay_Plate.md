@@ -29,19 +29,23 @@ Ref from Zoey: https://www.protocols.io/view/measuring-ammonium-nh4-concentratio
    * MW 126.04g/mol
    * Store in chemical shelf 
 * OPA (Phthaldialdehyde)
+   * CAS 643-79-8
    * MW 134.13g/mol
    * Store in fridge in secondary containment 
 * Ammonium Chloride
+   * CAS 12125-02-9
    * MW 53.49g/mol
    * Store in chemical shelf 
 * Ethanol (200% Proof)
+   * CAS 64-17-5
+   * MW 46.07
    * Store in flammables cabinet
 * Ammonium Standard for IC
    * 1000mg/l / 55mM 
-   * Store in chemical shelf 
+   * Store in chemical shelf
 
 ### Reagent Preparation
-1. Borate Buffer 
+1. Borate Buffer (Separately make 2x1L)
    1. In a schott bottle, add 40g of Sodium Tetraborate and 1L of MilliQ Water
    2. If not dissolving, mix on stir plate
 2. Sodium Sulfite Solution
@@ -58,14 +62,17 @@ Ref from Zoey: https://www.protocols.io/view/measuring-ammonium-nh4-concentratio
    3. Add 50mL of OPA solution, invert to mix 
    4. Let it age for three days before use
    5. Store in the dark and/or fridge, date, and discard after 3 months
-   6. Final concentrations: borate buffer (40 g·L–1, 21 mM), sodium sulfite (40 mg·L–1, 0.063 mM), and OPA in ethanol (50 mL·L–1)
+   6. Final concentrations:
+      1. borate buffer (40 g·L–1, 21 mM)
+      2. sodium sulfite (40 mg·L–1, 0.063 mM)
+      3. and OPA in ethanol (50 mL·L–1)
 5. Primary Working Stock for Ammonium Chloride (10mM) (IF OUT OF AMMONIUM STANDARD FOR IC)
    1. Take care to avoid contamination as much as possible
       1. Wash pipette tips 2x with MQ water 
    2. Rinse 50ml falcon tube 3x with MQ water
-   3. Combine 50ml MQ water with 26.75mg of ammonium chloride (0.010mol/L*53.49g/mol*0.050L)
+   3. Combine 50ml MQ water with 26.75mg of ammonium chloride (0.010mol/L* 53.49g/mol* 0.050L)
    4. Determine the actual final concentration
-      1. Ammonium chloride added __________mg / (53.49g/mol * 50ml) *1000 = Final concentration_______ mM
+      1. Ammonium chloride added __________mg / (53.49g/mol * 50ml) *1000 = Final concentration _______ mM
    5. Filter to sterilize and store in fridge
 6. Make Process Blank
    1. Rinse a 50ml falcon tube 3x with MQ water
@@ -74,68 +81,51 @@ Ref from Zoey: https://www.protocols.io/view/measuring-ammonium-nh4-concentratio
    4. Treat as a sample for processing and use it to determine background fluorescence 
 
 ### Material Preparation 
-Wash Pipette tips with MQ water
-1. Secondary Working Stock for Ammonium (55uM) (USING STANDARD)
+1. Wash Pipette tips with MQ water
+2. Secondary Working Stock for Ammonium (55uM) (USING STANDARD)
    1. Rinse 50ml falcon tube 3x with MQ water
    2. Fill with 50ml MQ water
    3. Add 50ul of Ammonium standard for IC (55mM) to tube
    4. Vortex
-2. Secondary Working Stock for Ammonium (55uM) (USING PRIMARY WORKING STOCK)
+3. Secondary Working Stock for Ammonium (55uM) (USING PRIMARY WORKING STOCK)
    1. Calculate volume of primary stock needed
       1. Primary stock conc. __________ mM (X volume_______ml) = 0.055mM(50ml)
       2. Ex. If primary stock is 10mM, X = 0.275ml or 275ul
    2. Combine primary stock volume with up to 50ml of MQ water (Ex. 275ul primary stock + 9.725ml MQ)
 4. Precondition tubes and pipette tips
-   1. Wash  tubes (enough for all samples) and any potential pipette tips with Working Reagent
+   1. Wash tubes (enough for all samples) and any potential pipette tips with Working Reagent
    2. Leave overnight
    3. Rinse with MQ water and leave to dry
    4. All times after first conditioning, WR rinse isn't required 
-3. Standard Preparation Ammonium conc 0-1.5uM
-   1. Label 8x 50ml tubes from 1-8
-   2. Fill all tubes with 40ml MQ water
-   3. Following the table below, add the designated colume of 55uM secondary standard to each tube. Wash 8x 50ml falcon tubes 3x with MQ water ****
+5. Standard Preparation Ammonium Standards 
+   1. Label 7x 50ml tubes from 1-7
+   2. Following the table below, add the designated colume of 55uM secondary standard and MQ water to each tube. 
 
-| Tube Number | Volume of Secondary Standard (µL)   | Volume of the seawater dilution matrix (mL) |  Final [NH4+] (µM) |
-| ----------- | ----------------------------------- | ------------------------------------------- | ------------------ |
-|1            | 0                                   | 40                                          | 0                  |
-|2            | 12.5                                | 40                                          | 0.0172             |
-|3            | 25                                  | 40                                          | 0.0344             |         
-|4            | 50                                  | 40                                          | 0.0687             |
-|5            | 125                                 | 40                                          | 0.171              |
-|6            | 250                                 | 40                                          | 0.342              |
-|7            | 500                                 | 40                                          | 0.679              |
-|8            | 1000                                | 40                                          | 1.341              |
-
-4. Standard Preparation Ammonium conc 0-10uM
-   1. Label 7x 50ml tubes from 1-8
-   2. Fill all tubes with 40ml MQ water
-   3. Following the table below, add the designated colume of 55uM secondary standard to each tube. Wash 8x 50ml falcon tubes 3x with MQ water ****
-
-| Tube Number | Volume of Secondary Standard (µL)   | Volume of the seawater dilution matrix (mL) |  Final [NH4+] (µM) |
-| ----------- | ----------------------------------- | ------------------------------------------- | ------------------ |
-|1            | 0                                   | 40                                          | 0                  |
-|2            | 12.5                                | 40                                          | 0.5             |
-|3            | 25                                  | 40                                          | 1.25             |         
-|4            | 50                                  | 40                                          | 2.5             |
-|5            | 125                                 | 40                                          | 5              |
-|6            | 250                                 | 40                                          | 7.5              |
-|7            | 500                                 | 40                                          | 10              |
+| Tube Number | Volume of 55uM Secondary Standard (µL)   | Vol MQ Water (mL) |  Final [NH4+] (µM) |
+| ----------- | ---------------------------------------- | ----------------- | ------------------ |
+|1            | 0                                        | 50                | 0                  |
+|2            | 9                                        | 50                | 0.5                |
+|3            | 227                                      | 50                | 1.25               |         
+|4            | 455                                      | 50                | 2.5                |
+|5            | 909                                      | 50                | 5                  |
+|6            | 1364                                     | 50                | 7.5                |
+|7            | 1818                                     | 50                | 10                 |
 
 ### Primary Procedure 
 1. Defrost samples
 2. Label microcentrifuge tubes for all standards and samples
 3. Add 1ml of Working Reagent to each tube, working in dim light 
-4. Add 250 µL of sample, standard, or nanopure water to each corresponding tube
+4. Add 250 µL of sample, standard, or MQ water to each corresponding tube
 5. Mix (invert or vortex) and incubate in the dark at room temperature for 2-3 hours
-6. Transfer 250 µL of each reaction to triplicate wells of a 96-well microplate and measure fluorescence on plate reader
+6. Transfer 250µL of each reaction to triplicate wells of a 96-well microplate and measure fluorescence on plate reader
 7. Turn on plate reader prior for warm up time 
 8. Read plate at 350±9 nm excitation and 422±20 nm emission (fluorescence top mode, manual Z-position set to 24995 µm, 25 flashes, manual gain of 100, 20 µs integration time)
 
 ### Analysis 
-1. Subtract the fluorescence values of the samples mixed with nanopure water (or borate buffer, preferably) instead of the Working Reagent (sample blanks) from the corresponding reacted sample fluorescence’s (= corrected sample fluorescence)
-2. Subtract the average fluorescence of the nanopure water tubes (i.e., 0 µM ammonium) mixed with borate buffer instead of Working Reagent (standard blanks) from the fluorescence values of all the standards
+1. Subtract the fluorescence values of the samples mixed with MQ water or borate buffer instead of the Working Reagent (sample blanks) from the corresponding reacted sample fluorescence’s (= corrected sample fluorescence)------------------
+2. Subtract the average fluorescence of the MQ water tubes (i.e., 0µM ammonium) mixed with borate buffer instead of Working Reagent (standard blanks) from the fluorescence values of all the standards
 3. Plot corrected fluorescence (y) vs. concentration (x) for all standards to establish a standard curve with linear regression
 4. Use the equation of the standard curve to calculate sample concentration from fluorescence
 
 ### Waste Protocols 
-1. Make a waste container to dispose of all liquids 
+1. Make a waste container to dispose of all liquids ---------------------
