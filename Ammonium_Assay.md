@@ -23,18 +23,24 @@ Taylor et al (2007) Improving the fluorometric ammonium method: matrix effects, 
 
 ### Chemicals 
 * Anhydrous Sodium Tetraborate
+   * CAS 1330-43-4
    * MW 201.22g/mol
    * Store in hazardous chemical shelf
 * Anhydrous Sodium Sulfite
+   * CAS 7757-83-7
    * MW 126.04g/mol
    * Store in chemical shelf 
 * OPA (Phthaldialdehyde)
+   * CAS 643-79-8
    * MW 134.13g/mol
    * Store in fridge in secondary containment 
 * Ammonium Chloride
+   * CAS 12125-02-9
    * MW 53.49g/mol
    * Store in chemical shelf 
 * Ethanol (200% Proof)
+   * CAS 64-17-5
+   * MW 46.07
    * Store in flammables cabinet
 * Ammonium Standard for IC
    * 1000mg/l / 55mM 
@@ -62,9 +68,9 @@ Taylor et al (2007) Improving the fluorometric ammonium method: matrix effects, 
    1. Take care to avoid contamination as much as possible
       1. Wash pipette tips 2x with MQ water 
    2. Rinse 50ml falcon tube 3x with MQ water
-   3. Combine 50ml MQ water with 26.75mg of ammonium chloride (0.010mol/L*53.49g/mol*0.050L)
+   3. Combine 50ml MQ water with 26.75mg of ammonium chloride (0.010mol/L* 53.49g/mol* 0.050L)
    4. Determine the actual final concentration
-      1. Ammonium chloride added __________mg / (53.49g/mol * 50ml) *1000 = Final concentration_______ mM
+      1. Ammonium chloride added __________mg / (53.49g/mol* 50ml)* 1000 = Final concentration _______ mM
    5. Filter to sterilize and store in fridge
 6. Make Process Blank
    1. Rinse a 50ml falcon tube 3x with MQ water
