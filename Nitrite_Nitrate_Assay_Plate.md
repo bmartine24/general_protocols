@@ -1,9 +1,11 @@
 # Nitrate and Nitrite Assay 
 Jones, M.N (1984) Nitrate Reduction by Shaking with Cadmium. Water Res.18(5): 643-646
 
+Zoey's lab link: https://www.protocols.io/view/measuring-nitrate-nitrite-nox-concentrations-in-wa-rm7vzyyjxlx1/v1?step=5.4
+
 ### Materials 
 * Shaker
-* Pipettes and Tips - 1000u and 200µL
+* Pipettes and Tips - 1000ul and 200µL
 * Microcentrifuge tubes
 * Tube racks
 * 15mL conical tubes (if necessary)
@@ -68,6 +70,7 @@ Jones, M.N (1984) Nitrate Reduction by Shaking with Cadmium. Water Res.18(5): 64
 
 
 ### Waste Protocols 
+
 
 
 
