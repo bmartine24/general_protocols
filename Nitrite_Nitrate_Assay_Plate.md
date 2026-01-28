@@ -12,6 +12,11 @@ Zoey's lab link: https://www.protocols.io/view/measuring-nitrate-nitrite-nox-con
 * Vortexer
 * 96-well microplate with lid, clear
 * Plate Reader
+* Water bath
+* Syringe filter
+* Aluminum foil
+* Multichannel pipette
+* Wells
 
 ### Chemicals 
 * Vanadium (III) chloride
@@ -40,27 +45,50 @@ Zoey's lab link: https://www.protocols.io/view/measuring-nitrate-nitrite-nox-con
    * Store chemical shelf 
   
 ### Preparation 
-1. Timing, making solvents 
 2. Making standards
 3. Prepare 200 µM stock solution: Dilute 1:500 from 0.1 M stock solution => 20 µL + 9.980 mL nanopure water.
 4. Dilute the stock solution to the following concentrations in nanopure water: 0, 10, 20, 30, 40, 60, 100, 150, 200 µM.
-5. Make Vanadium (III) chloride solution
-6. Dissolve 100 mg in 12.5 mL 1 M HCl. Remove excess precipitates with nylon-66 syringe filter. DO NOT HEAT. Store solution at 4°C protected from light. Use within 2 weeks. NOTE: Appears viable after 2 months. Development of a lighter blue color indicates oxidation— authors suggest discarding solution, but light blue color observed in our lab shortly after preparation, and worked fine.
-7. 2% Sulfanilamide solution
-8. Add 1 g to 50 mL HCl. Heat to dissolve (in water bath set to ~55°C). Filter to remove trace particulates. Store solution at 4°C protected from light. Stable for several months. Discard if colored.
-9. 0.1% NED solution
-10. Add 50 mg to 50 mL nanopure water. Heat to dissolve (in water bath set to ~55°C). Filter to remove trace particulates. Store solution at 4°C protected from light. Stable for several months. Discard if colored. 
-
+5. Make 50ml of 1M HCl
+   1. 1M * (1L/11.975mol (This is the molarity of concentrated 37% HCl))* 50ml = 4.17536ml (4ml + 175ul)
+   2. Add 4.175ml of 37% HCl into 45.825ml MQ water
+   3. Invert to mix
+7. Vanadium (III) chloride solution: 
+   1. Cover a 50ml falcon tube with aluminum foil
+   2. Dissolve 100mg in 12.5 mL 1M HCl.
+   3. Remove excess precipitates with nylon-66 syringe filter.
+   4. DO NOT HEAT.
+   5. Store solution at 4°C protected from light.
+   6. Use within 2 weeks. NOTE: Appears viable after 2 months. Development of a lighter blue color indicates oxidation— authors suggest discarding solution, but light blue color observed in our lab shortly after preparation, and worked fine.
+8. 2% Sulfanilamide solution: 
+   1. Cover a 50ml falcon tube with aluminum foil
+   2. Add 1g to 50 mL HCl.
+   3. Heat to dissolve (in water bath set to ~55°C).
+   4. Filter to remove trace particulates.
+   5. Store solution at 4°C protected from light. Stable for several months. Discard if colored.
+10. 0.1% NED solution
+   1. Add 50mg to 50mL MQ water.
+   2. Heat to dissolve (in water bath set to ~55°C).
+   3. Filter to remove trace particulates.
+   4. Store solution at 4°C protected from light. Stable for several months. Discard if colored. 
 
 ### Primary Procedure 
-1. Calculate total volume of SULF/NEDD mixture needed to run triplicate wells for each standard and sample: (# standards + # samples + 1 extra) x 3 x 80 µL = total vol (µL). a. If quantifying both total NOx and NO2-, double the # samples. b. Account for both sample (no added SULF/NEDD mixture) and reagent blanks (nanopure plus reagents, i.e., 0. µM NOx).
-2. Prepare the total volume of SULF/NEDD mixture needed by mixing equal parts of the reagents (i.e., if need 3 mL total volume, add 1.5 mL SULF to 1.5 mL NEDD in 15 mL tube). Vortex to mix.
-3. Aliquot 80 µL of each sample/standard to the appropriate wells of a clear 96-well plate
-4. Add 80 µL of VCl3 to each well for total NOx concentrations and 80 µL of nanopure water to each well for nitrite concentrations. Mix briefly by pipetting (use multichannel pipet).
-5. Quickly add 80 µL of SULF/NEDD mixture to each well. Mix briefly by pipetting
-6. Incubate at room temperature for 30 minutes (45 minutes maximum)
-7. Measure absorbance on plate reader.
-8. Read absorbance at 520±9 nm (25 flashes). Program automatically opens an Excel file that documents read parameters and data.
+1. Calculate total volume of SULF/NEDD mixture needed to run triplicate wells for each standard and sample:
+   1. (# standards + # samples + 1 extra) x 3 x 80µL = total vol ______________ (µL).
+   2. If quantifying both total NOx and NO2-, double the # samples.
+   3. Account for both sample (no added SULF/NEDD mixture) and reagent blanks (nanopure plus reagents, i.e., 0. µM NOx).
+3. Prepare the total volume of SULF/NEDD mixture needed by mixing equal parts of the reagents
+   1. Ex. if need 3 mL total volume, add 1.5 mL SULF to 1.5 mL NEDD in 15 mL tube
+   2. Vortex to mix.
+5. Aliquot 80µL of each sample/standard to the appropriate wells of a clear 96-well plate
+6. Add 80 µL of VCl3 to each well for total NOx concentrations
+7. Add 80 µL of nanopure water to each well for nitrite concentrations
+8. Mix briefly by pipetting (use multichannel pipet)
+   1. Be wary of bubbles 
+10. Quickly add 80 µL of SULF/NEDD mixture to each well. Mix briefly by pipetting
+11. Incubate at room temperature for 30 minutes (45 minutes maximum)
+12. Measure absorbance on plate reader.
+   1. Read absorbance at 520±9 nm (25 flashes).
+   2. Program automatically opens an Excel file that documents read parameters and data.
 
 ### Analysis 
 1. Subtract the absorbance values of the samples mixed with diluting solution/medium instead of the SULF/NEDD mixture (sample blanks) from the corresponding reacted sample absorbances (= corrected sample absorbance).
@@ -68,8 +96,8 @@ Zoey's lab link: https://www.protocols.io/view/measuring-nitrate-nitrite-nox-con
 3. Plot corrected absorbance (y) vs. concentration (x) for all standards to establish a standard curve with linear regression.
 4. Use the equation of the standard curve to calculate sample concentration from fluorescence.
 
-
 ### Waste Protocols 
+
 
 
 
