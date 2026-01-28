@@ -3,21 +3,18 @@
 Murphy and Riley (1962) A Modified Single Solution Method for the Determination of Phosphate in Natural Waters. Analytica Chimica Acta 27(1962)31-36. 
 
 ### Materials 
-* 15 mL centrifuge tubes (10 for standard curve + # of samples) 
+* Microcentrifuge tubes
 * Pipettes and tips
    * P200 (2x Std curve + # Samples)
    * P1000 (helpful for transfers)
-* Cuvettes
-   * Disposable plastic cuvettes (one per sample/standard) or
-   * Reusable glass cuvette (rinsed thoroughly between reads)
-* Tube racks (15 mL)
+* Clear 96 well plates 
 * Kimwipes
 * DI Water Squirt Bottle
 * Timer (for 30-minute incubation)
 * Aluminum foil
 * Ice bucket + ice
 * Chemical waste container (Labeled: Phosphate Assay Waste)
-* Instrument: Spectrophotometer capable of reading 880 nm
+* Instrument: Plate reader capable of reading 880 nm
 * 1x 1L amber glass schott bottle 
 * 1x 100ml plastic bottle 
 * 1x 100ml glass schott bottle 
@@ -49,7 +46,7 @@ Murphy and Riley (1962) A Modified Single Solution Method for the Determination 
 ### Reagent Preparation 
 1. 9N Sulfuric Acid Reagent (1L)
    1. Place 1L amber glass bottle on ice
-   2. Add 250 mL of sulfuric Acid to 750 mL of MQ water. 
+   2. Add 250 mL of sulfuric Acid to 750 mL of MQ water
    3. Once cooled, it can be stored in the acid cabinet
    4. This is very dangerous, do in the back of the hood, with most protective PPE
 2. Ammonium heptamolybdate Reagent (100ml)) --------------------
