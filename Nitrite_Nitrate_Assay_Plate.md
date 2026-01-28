@@ -17,6 +17,7 @@ Zoey's lab link: https://www.protocols.io/view/measuring-nitrate-nitrite-nox-con
 * Aluminum foil
 * Multichannel pipette
 * Wells
+* 50ml falcon tubes
 
 ### Chemicals 
 * Vanadium (III) chloride
@@ -97,6 +98,7 @@ Zoey's lab link: https://www.protocols.io/view/measuring-nitrate-nitrite-nox-con
 4. Use the equation of the standard curve to calculate sample concentration from fluorescence.
 
 ### Waste Protocols 
+
 
 
 
