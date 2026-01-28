@@ -51,6 +51,7 @@ Murphy and Riley (1962) A Modified Single Solution Method for the Determination 
    1. Place 1L amber glass bottle on ice
    2. Add 250 mL of sulfuric Acid to 750 mL of MQ water. 
    3. Once cooled, it can be stored in the acid cabinet
+   4. This is very dangerous, do in the back of the hood, with most protective PPE
 2. Ammonium heptamolybdate Reagent (100ml)) --------------------
    1. Dissolve 9.5g of ammonium heptamolybdate in 100 mL of MQ in a plastic bottle
    2. Solution is good as long as it remains clear
